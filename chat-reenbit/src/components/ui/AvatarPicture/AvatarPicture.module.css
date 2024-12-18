@@ -1,0 +1,5 @@
+.Avatar_Picture{
+    display: flex;
+    align-self: center;
+    border-radius: 50%;
+}

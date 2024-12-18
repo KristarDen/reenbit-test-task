@@ -1,0 +1,17 @@
+.ChatLayaout{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.ChatLayaout__Contact_Info{
+    display: flex;
+    flex-direction: column;
+    padding: 2vh;
+    min-height: 10vh;
+}
+.ChatLayaout__Contact_Info__Name{
+
+}
+.ChatLayaout__Messages{
+
+}
